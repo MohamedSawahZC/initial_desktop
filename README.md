@@ -1,5 +1,4 @@
-# clinic_system_nusrse_version
-
+# initial desktop
 A new Flutter project.
 
 ## Getting Started
